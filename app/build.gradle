@@ -56,8 +56,8 @@ dependencies {
     implementation 'com.google.code.gson:gson:2.10.1' // gson
     implementation 'com.squareup.retrofit2:retrofit:2.9.0' // retrofit
     implementation 'com.squareup.retrofit2:converter-gson:2.9.0' // retrofit-converter-gson
-    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4' // coroutines-android
-    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4' // coroutines-core
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.1' // coroutines-android
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.1' // coroutines-core
 
     implementation(platform("com.squareup.okhttp3:okhttp-bom:4.9.0"))
     implementation("com.squareup.okhttp3:okhttp")
