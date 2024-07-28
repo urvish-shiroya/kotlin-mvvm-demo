@@ -1,0 +1,7 @@
+R_DEF: Internal format may change without notice
+local
+color background_color
+color black
+color text_color
+color text_color_grey
+color white

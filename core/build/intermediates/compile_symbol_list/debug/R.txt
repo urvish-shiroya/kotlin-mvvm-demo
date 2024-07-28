@@ -1,0 +1,5 @@
+int color background_color 0x0
+int color black 0x0
+int color text_color 0x0
+int color text_color_grey 0x0
+int color white 0x0
